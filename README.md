@@ -1,7 +1,7 @@
 <img src = "translator.gif" width= 98%>
 
 ## 📚 Goal
-User can input a word in either English or Spanish and receive a translation, and a picture with an image description of the translation.
+User can input a word in either English or Spanish and receive a translation in the opposite language, along with a picture and an image description of the generated translation.
 
 
 
