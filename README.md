@@ -3,8 +3,6 @@
 ## 📚 Goal
 User can input a word in either English or Spanish and receive a translation in the opposite language, along with a picture and an image description of the generated translation.
 
-
-
 ## 📚 How it's made
 Made using HTML, CSS, Javascript, API and JSON. This is also a mobile, tablet, and desktop responsive.
 
